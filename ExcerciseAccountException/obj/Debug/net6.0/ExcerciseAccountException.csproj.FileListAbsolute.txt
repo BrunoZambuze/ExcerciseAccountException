@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\bin\Debug\net6.0\ExcerciseAccountException.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\bin\Debug\net6.0\ExcerciseAccountException.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\bin\Debug\net6.0\ExcerciseAccountException.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\bin\Debug\net6.0\ExcerciseAccountException.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\bin\Debug\net6.0\ExcerciseAccountException.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ExcerciseAccountException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ExcerciseAccountException.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ExcerciseAccountException.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ExcerciseAccountException.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ExcerciseAccountException.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\refint\ExcerciseAccountException.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ExcerciseAccountException.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ExcerciseAccountException.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExcerciseAccountException\ExcerciseAccountException\obj\Debug\net6.0\ref\ExcerciseAccountException.dll
